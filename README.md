@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Muuo</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amuuo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="amuuo-dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amuuo-dev" alt="amuuo-dev" /></a> </p>
-
 - 🔭 I’m currently interested on **in solving problems with code.**
 
 - 🌱 I’m currently learning **Frontend RoadMap Course on Scrimba**
