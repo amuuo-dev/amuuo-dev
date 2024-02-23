@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/amuuo-dev/overview](https://app.netlify.com/teams/amuuo-dev/overview)
 
-- 📝 I regularly write articles on [https://hashnode.com/anthonymuuo](https://hashnode.com/post/clsxjqnah000009jrg6z8bpln)
+- 📝 I regularly write articles on [https://hashnode.com/anthonymuuo](https://amuuo-dev.hashnode.dev/)
 
 - 💬 Ask me about **react, html/css, javaScript etc**
 
