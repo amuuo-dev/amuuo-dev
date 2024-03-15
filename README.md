@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interested on **in solving problems with code.**
 
-- 🌱 I’m currently learning **Frontend RoadMap Course on Scrimba**
+- 🌱 I’m currently learning **Frontend Languages**
 
 - 👯 I’m looking to collaborate **with different teams .**
 
