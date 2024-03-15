@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/anthonymuuo](https://amuuo-dev.hashnode.dev/)
 
-- 💬 Ask me about **react, html/css, javaScript**
+- 💬 Ask me about **React, html/css, javaScript**
 
 - 📫 How to reach me **anthonymuuo92@gmail.com**
 
