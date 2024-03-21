@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently interested on **in solving problems with code.**
 
-- 🌱 I’m currently learning **Frontend Languages**
+- 🌱 I’m currently learning on how to Master Frontend Development on **Frontend Masters**
 
 - 👯 I’m looking to collaborate **with different teams .**
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/anthonymuuo](https://amuuo-dev.hashnode.dev/)
 
-- 💬 Ask me about **React, Html/Css, javaScript**
+- 💬 Ask me about **React, JavaScript & TaliwindCss**
 
 - 📫 How to reach me **anthonymuuo92@gmail.com**
 
